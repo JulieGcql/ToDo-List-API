@@ -1,3 +1,7 @@
 # ToDo-List-API-Ruby-on-Rails
 
-![](To-Do-List.gif)# ToDo-List-API
+My first app using Ruby on Rails for the backend part :
+
+![](To-Do-List.gif)
+
+Ruby version : 2.6.0
